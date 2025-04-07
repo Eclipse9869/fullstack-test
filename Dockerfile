@@ -1,5 +1,5 @@
 # Gunakan image PHP + Apache
-FROM php:8.2-apache
+FROM php:8.2-apache 
 
 # Install dependencies
 RUN apt-get update && apt-get install -y \
