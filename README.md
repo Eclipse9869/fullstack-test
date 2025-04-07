@@ -9,7 +9,7 @@ Aplikasi ini menyediakan sistem manajemen pengguna (User Management) dengan fitu
 - Validasi input
 - Middleware untuk logging dan keamanan
 - Dokumentasi API otomatis via Swagger
-- Testing menggunakan Jest + Axios
+- Testing menggunakan Jest + Axios 
 ---
 
 ## 🚀 Cara Menjalankan Aplikasi Secara Lokal
