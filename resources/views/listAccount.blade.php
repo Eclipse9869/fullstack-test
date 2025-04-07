@@ -10,7 +10,7 @@
 <div class="container mt-5">
     <h2 class="mb-4">Daftar Akun</h2>
     <button class="btn btn-success mb-3" onclick="addUser()">
-        <i class="fa fa-plus"></i> Tambah User
+        <i class="fa fa-plus"></i>  Tambah User
     </button>
     <table class="table table-bordered">
         <thead class="table-light">
