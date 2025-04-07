@@ -75,7 +75,7 @@ class AccountController extends Controller
             'email' => $request->email,
             'age' => $request->age,
         ]);
-
+        
         return response()->json(['message' => 'User berhasil ditambahkan']);
     }
 
