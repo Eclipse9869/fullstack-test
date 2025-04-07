@@ -16,7 +16,7 @@ class ValidasiLogging
             'method' => $request->method(),
             'payload' => $request->all(),
             'ip' => $request->ip(),
-        ]);
+        ]); 
 
         $rules = [
             'name' => 'required|string|max:100',

@@ -54,6 +54,6 @@ describe('Account API', () => {
     });
 
     expect(res.status).toBe(200);
-    expect(res.data.message).toMatch(/berhasil dihapus/i);
+    expect(res.data.message).toMatch(/berhasil dihapus/i); 
   });
 });
